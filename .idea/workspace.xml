@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03-Mar-2022/src/Empolyee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Rectangle_java.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Mar-2022/src/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-Mar-2022/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-Mar-2022/src/Rectangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +32,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Remote JVM Debug.Rectangle.java">
-    <configuration name="Unnamed" type="Java Scratch" nameIsGenerated="true">
+  <component name="RunManager" selected="Java Scratch.Account,java">
+    <configuration name="Account,java" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="Account" />
       <module name="Javacode" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
       <shortenClasspath name="NONE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Javacode$ContentRoot$FileDirRelativeToSourcepath$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -53,10 +58,30 @@
       <option name="AUTO_RESTART" value="false" />
       <method v="2" />
     </configuration>
+    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+      <module name="Javacode" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="true" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="true" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="true" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Java Scratch.Unnamed" />
+      <item itemvalue="Remote JVM Debug.Unnamed" />
       <item itemvalue="Remote JVM Debug.Rectangle.java" />
       <item itemvalue="Remote JVM Debug.Rectangle" />
+      <item itemvalue="Java Scratch.Account,java" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -75,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646305370285</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Rectangle">
+      <created>1646307049238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646307049238</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Emloyee details" />
-    <option name="LAST_COMMIT_MESSAGE" value="Emloyee details" />
+    <MESSAGE value="Rectangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rectangle" />
   </component>
 </project>

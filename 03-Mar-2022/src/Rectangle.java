@@ -8,7 +8,7 @@ public class Rectangle()
     }
     void area()
     {
-        return length * width ;
+        return length * width;
 
     }
     public static void main(String[]args)

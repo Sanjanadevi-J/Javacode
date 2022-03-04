@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Rectangle_java.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-Mar-2022/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-Mar-2022/src/Reversing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04-Mar-2022/src/Object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-Mar-2022/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/03-Mar-2022/src/Rectangle.java" afterDir="false" />
     </list>
@@ -11,6 +12,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,7 +45,14 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Java Scratch.Account,java">
+  <component name="RunManager" selected="Application.Object">
+    <configuration name="Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Object" />
+      <module name="04-Mar-2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Account,java" type="Java Scratch">
       <option name="MAIN_CLASS_NAME" value="Account" />
       <module name="Javacode" />
@@ -69,20 +84,27 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="Remote">
+      <module name="04-Mar-2022" />
       <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="true" />
+      <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <option name="AUTO_RESTART" value="true" />
+      <option name="AUTO_RESTART" value="false" />
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Java Scratch.Account,java" />
       <item itemvalue="Remote JVM Debug.Unnamed" />
       <item itemvalue="Remote JVM Debug.Rectangle.java" />
       <item itemvalue="Remote JVM Debug.Rectangle" />
-      <item itemvalue="Java Scratch.Account,java" />
+      <item itemvalue="Application.Object" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Object" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -114,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646309378036</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Fabinocci">
+      <created>1646310540194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646310540194</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +161,7 @@
     <MESSAGE value="Emloyee details" />
     <MESSAGE value="Rectangle" />
     <MESSAGE value="Account" />
-    <option name="LAST_COMMIT_MESSAGE" value="Account" />
+    <MESSAGE value="Fabinocci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fabinocci" />
   </component>
 </project>

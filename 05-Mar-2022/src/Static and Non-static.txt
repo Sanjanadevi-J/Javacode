@@ -1,0 +1,19 @@
+Static member:
+       It is created by using static keyword.
+       The main purpose of using static member is to manage memory ,to access static member there is no need of creating instance.
+       static member may be
+              -method :it will access only static field and method without instantiate the class
+              - field :value cannot be changed in all instance, when a class is loaded for the first time it will be created
+              - block: block of code with static keyword.Executes at runtime (i.e)before main method
+       It is stored inside the class memory.
+       It will be used anywhere in the class.
+
+Non-Static member:
+       It is a method or a variable without static keyword.
+       It will be accessed by creating instance of class.
+       It can be able to access any static methods but static can't able to access the non-static.
+       It will be stored inside object memory.
+       It has dynamic memory.
+JVM compile steps:
+       It reads the static member from top to bottom
+       Executes the static member first and executes the main method.

@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="Static">
-      <change afterPath="$PROJECT_DIR$/04-Mar-2022/04-Mar-2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-Mar-2022/05-Mar-2022.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-Mar-2022/src/Static and Non-static.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment=" Static and Non-static">
+      <change afterPath="$PROJECT_DIR$/05-Mar-2022/src/Static1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +43,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.Static1">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="04-Mar-2022" />
@@ -54,14 +51,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="Static1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="temurin-11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Demo" />
-      <module name="04-Mar-2022" />
+      <option name="MAIN_CLASS_NAME" value="Static1" />
+      <module name="05-Mar-2022" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Static1" />
+      <module name="05-Mar-2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Static1" type="CompoundRunConfigurationType">
+      <method v="2" />
     </configuration>
     <configuration name="Account,java" type="Java Scratch">
       <option name="MAIN_CLASS_NAME" value="Account" />
@@ -83,7 +92,7 @@
       <option name="AUTO_RESTART" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+    <configuration name="Static1" type="Remote">
       <module name="Javacode" />
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="true" />
@@ -91,12 +100,16 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
       <option name="AUTO_RESTART" value="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
       <method v="2" />
     </configuration>
     <configuration default="true" type="Remote">
-      <module name="04-Mar-2022" />
+      <module name="05-Mar-2022" />
       <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
+      <option name="SERVER_MODE" value="true" />
       <option name="SHMEM_ADDRESS" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
@@ -105,13 +118,16 @@
     </configuration>
     <list>
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Compound.Static1" />
       <item itemvalue="Java Scratch.Account,java" />
-      <item itemvalue="Remote JVM Debug.Unnamed" />
+      <item itemvalue="Remote JVM Debug.Static1" />
       <item itemvalue="Remote JVM Debug.Rectangle.java" />
       <item itemvalue="Remote JVM Debug.Rectangle" />
+      <item itemvalue="Application.Static1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Static1" />
         <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
@@ -167,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646386906921</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" Static and Non-static">
+      <created>1646467740787</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1646467740787</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +211,7 @@
     <MESSAGE value="Fabinocci" />
     <MESSAGE value="object" />
     <MESSAGE value="Static" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static" />
+    <MESSAGE value=" Static and Non-static" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Static and Non-static" />
   </component>
 </project>

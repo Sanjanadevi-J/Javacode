@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="Static field">
-      <change afterPath="$PROJECT_DIR$/05-Mar-2022/src/Static3.java" afterDir="false" />
+    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="Static block">
+      <change afterPath="$PROJECT_DIR$/05-Mar-2022/src/Non_static1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +43,19 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Static3">
+  <component name="RunManager" selected="Application.Non_static1">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="04-Mar-2022" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Non_static1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="temurin-11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Non_static1" />
+      <module name="05-Mar-2022" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -143,9 +153,11 @@
       <item itemvalue="Application.Static1" />
       <item itemvalue="Application.Static2" />
       <item itemvalue="Application.Static3" />
+      <item itemvalue="Application.Non_static1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Non_static1" />
         <item itemvalue="Application.Static3" />
         <item itemvalue="Application.Static2" />
         <item itemvalue="Application.Static1" />
@@ -225,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646468563092</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Static block">
+      <created>1646468739888</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1646468739888</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +268,7 @@
     <MESSAGE value=" Static and Non-static" />
     <MESSAGE value=" Static1" />
     <MESSAGE value="Static field" />
-    <option name="LAST_COMMIT_MESSAGE" value="Static field" />
+    <MESSAGE value="Static block" />
+    <option name="LAST_COMMIT_MESSAGE" value="Static block" />
   </component>
 </project>

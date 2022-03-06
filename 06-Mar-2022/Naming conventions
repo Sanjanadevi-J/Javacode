@@ -1,0 +1,15 @@
+Naming conventions:
+       It is rule a to follow, to name a class/method/package/variable/interface in a program
+       It is not forced to follow, but if we fail to follow the frame the program shows error
+       - class: starts with upper case,name should be a noun,camel case in case of two or more words.
+       -interface:  starts with upper case,name should be a adjective,camel case in case of two or more words.
+       -package: starts with lower letter, word are separated by dots.
+       -method: starts with lower letter,name should be a verb, if there is two or more words new word start with uppercase.
+       -variable: starts with lower letter,no special characteristics, if there is two or more words new word start with uppercase.
+       -constants: all letters should be upper case , words separated by underscore.
+*camel case: if we have two or more words the new word starts with upper case.
+
+Usage of naming conventions:
+       By using standard names, it makes the coder easier to read other's program and understand the program in quick manner.
+       reduce read time
+       To focus more on the issue or problem of the program.

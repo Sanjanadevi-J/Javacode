@@ -1,0 +1,15 @@
+Overloading:
+          It allows two or more methods in a class to have a same name,but they are different parameters.
+          It is also called as call by value.
+          It may differ in no. of arguments, type of arguments, both
+          But, if the method is different in return type only will not be overloaded it will cause error.(ambiguity occurs).
+          Compile time polymorphism is done by overloading.
+Ways to overload:
+          change in argument.
+          change in datatype.
+Advantage of overloading:
+          - Increases readability.
+          - Reduces complexity.
+          - Reduces execution time.
+          - Makes code clean.
+          - create many methods with same name.

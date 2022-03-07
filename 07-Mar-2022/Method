@@ -1,0 +1,23 @@
+Method:
+     It is a collection of statement or a block of code which performs specific task and it will be executed once it is called using instance of class.
+     It is also called as function.
+     It must be a part of class.
+Usage:
+     The method will be reused in the code without retyping the code.
+     It saves the time.
+     It also helps in maintainability.
+Declaration:
+     It defines with any of four modifier(default,public,private,protected)
+     Next to modifier data type/ return type(void,int,float,double)
+     Method name followed by data type- Starts with lower case and if more than one word it should be camelcase.
+     followed by parentheses.
+Types:
+     Predefined - built in/standard java library, which is already defined in java.Example: print(),length().sqrt(),etc.
+     User defined - we can modify according to our need.
+           - Static - Method with a static keyword, it a belong to a class rather than instance of class.
+           -instance - Non static method invoked by object.
+                  - accessor - reads the instance of class, easily identified by get keyword.
+                  - mutator - reads and make changes in the value,easily identified by set keyword.
+Memory allocation:
+       - implemented through stack(i.e) LIFO method.
+       - stack frame is created inside the stack when a method is called. After execution allocated stack frame will be deleted.

@@ -1,0 +1,15 @@
+Overriding:
+          Writing a same method in different ways.
+          It is performed by the concept of inheritance.
+          Inheritance - behavior of parent class can be accessed by child class.
+          Run time polymorphism is done by overriding concept.
+Importance of overriding:
+          If subclass/child class is not satisfied with the super/parent class method.Subclass can rewrite the method.
+Rules:
+      Overriding is done with the inheritance concept.
+      The method should have same name ,same rewritten type, same scope,same parameter.
+Constrains:
+      Static or private or final method can't be overridden.
+*super.display() - It is used to print both methods in parent and subclass.
+Usage:
+      It is used to provide specific implementation of a method to the subclass.

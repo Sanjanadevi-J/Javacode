@@ -1,0 +1,21 @@
+Interface:
+          It is blueprint of class.
+          The mechanism used to achieve 100% abstraction.
+          Multiple inheritance can be achieved by interface by using implements keyword.
+          It has only method declaration. The implemented interface or class can has its method definitions .
+          From java 8 version, method definitions are implemented by using default and static keyword.
+          We can also declare a variable inside a interface but  the variable will  be a final or static one the value can"t be changed.
+Types of methods:
+      Abstract,Static,Default.
+      Abstract method only has method declaration inside the interface. But, static and default methods can have method definitions.
+
+Uses:
+     To achieve abstraction.
+     To achieve polymorphism.
+     to achieve multiple inheritance.
+     Interface can extend interface.
+     class can implement n number of interface.
+Types:
+      Functional interface- Abstract,static,default methods
+      Marker interface- Empty interfaces/ no members inside the interface.
+      Nested interface - Interface inside the interface.

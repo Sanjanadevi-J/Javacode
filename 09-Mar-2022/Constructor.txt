@@ -1,0 +1,19 @@
+Constructor:
+            A constructor is similar to the method,but it has the same name as class name, and it has no return type.
+            It is a special method to initialize an object.
+            If we have not created any constructor java calls a default constructor.
+            A constructor will be called when an object is created.
+            Constructor is not a member of class, but it is inside the class.
+            At the time of calling an object memory will be allocated to the constructor.
+            We can create many constructors by changing the number of parameters.
+Types:
+      Default(no-argument): without any parameters.Default constructor will pass 0 or null if the value is not assigned.
+      Parameterised: assign a number of parameters to assign value to the attribute.Used to assign different values to distinct objects.
+      copy: the value of another object will be passed to the constructor.
+Usage:
+      Main purpose of constructor is to initialize an object.
+      There is no need of calling constructor . once an object is crated it automatically calls the constructor.
+Constructor overloading:
+      We can overload a constructor by changing the no. of arguments.
+      This is achieved by parameterised constructor.
+      This is used to have number of constructors with different parameter number.

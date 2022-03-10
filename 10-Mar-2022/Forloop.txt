@@ -1,0 +1,19 @@
+Loop:
+     loop is a block of code with iteration,it will print as long as the specific condition is reached.
+For-loop:
+         It is an entry check loop,once we know end iteration for-loop will be used.
+         It contains four parts initialization,condition,statement,increment/decrement.
+         In initialization, we have to initialize the variable with a value from where to start the loop.
+         In condition, we have to check the condition to enter the loop,if it fails it came out of the loop.
+         Once the condition gets checked ,if it is true it will print the statement.
+         after execution of the statement increment/decrement part will be executed again the loop starts its process,
+
+syntax:
+       for(initialization;condition;increment/decrement){
+        //statement;
+       }
+Nested for-loop:
+        we can have for-loop inside a for-loop ,inner loop will be executed completely for single iteration of outer loop.
+For each loop:
+        it is used to convert array of element to a collection
+        syntax: for(datatype variable:arrayname)

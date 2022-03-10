@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="String1.java">
-      <change afterPath="$PROJECT_DIR$/10-Mar-2022/String2.java" afterDir="false" />
+    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="Immutable string">
+      <change afterPath="$PROJECT_DIR$/10-Mar-2022/String3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10-Mar-2022/String2.java" beforeDir="false" afterPath="$PROJECT_DIR$/10-Mar-2022/String2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -510,7 +512,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646918581498</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Immutable string">
+      <created>1646919017423</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1646919017423</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,7 +534,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="preference for blocks" />
     <MESSAGE value="Naming conventions" />
     <MESSAGE value="Method" />
     <MESSAGE value="Predefined" />
@@ -550,7 +558,8 @@
     <MESSAGE value="String.txt" />
     <MESSAGE value="Find odd and even" />
     <MESSAGE value="String1.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="String1.java" />
+    <MESSAGE value="Immutable string" />
+    <option name="LAST_COMMIT_MESSAGE" value="Immutable string" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

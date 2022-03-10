@@ -5,5 +5,6 @@ public class String2{
         System.out.println(n);
         String m=n.append("world");
         System.out.println(m);
+
     }
 }

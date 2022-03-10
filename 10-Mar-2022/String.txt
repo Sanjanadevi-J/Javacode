@@ -1,0 +1,11 @@
+String:
+       String is basically an object,it is used to store sequence of character.
+       It is immutable (not able to modify the created string).
+       we can create strings in two ways - by using literal method(using double quotes).
+                                         - by using new keyword
+       There are many inbuilt methods for string : length(),toUpperCase(),toLowerCase(),equals(),concat()CharAt(0,etc.
+       Memory for the string will be allocated in constant-pool
+
+StringBuffer and StringBuilder:
+       We can create mutable string by using StringBuffer and StringBuilder.
+       Memory will be allocated in heap.

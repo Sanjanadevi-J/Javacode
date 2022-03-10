@@ -1,0 +1,16 @@
+Data types:
+          It specifies different size and values that stored in a variable.
+          It has two types primitive and non-primitive.
+Primitive:
+         Boolean- is used to store one bit information (i.e) true or false.
+         Numeric -char- char is used to store single character.
+                  integral- byte- it is used to store 8-bit integer. We can make use of it in large array to save memory.
+                            short-it is used to store 16-bit integer.it is also used to save memory because it is 2 time smaller than int.
+                            int - it is used to store 32-bit integer,it is a default variable to store integer values.
+                            long- it is used to store 64-bit integer,we can make use of it when a large values are needed.
+                  floating-float-it is used to store decimal value instead of double we can use float to save memory.
+                           double-it is also used to store decimal,it wil be used to store more decimals it has capability of storing 15 decimals.
+Non-primitive-it is used to call a method,it is a reference type data type.
+              Non-primitive starts with upper case.
+              string- string is used to store a sequence of character.
+              array- it is used to store a group of similar data type variable.

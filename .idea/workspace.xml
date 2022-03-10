@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="Data types">
+    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="String.txt">
       <change afterPath="$PROJECT_DIR$/10-Mar-2022/Cal.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/10-Mar-2022/EvenOdd.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/10-Mar-2022/Find.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-Mar-2022/Forloop.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -465,7 +464,42 @@
       <option name="project" value="LOCAL" />
       <updated>1646888684720</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="For-loop">
+      <created>1646898754044</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1646898754044</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Forloop.java">
+      <created>1646899335864</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1646899335864</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Forloop1.java">
+      <created>1646900088971</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1646900088972</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Forloop2.java">
+      <created>1646902824784</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1646902824784</updated>
+    </task>
+    <task id="LOCAL-00034" summary="String.txt">
+      <created>1646917797920</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1646917797920</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,11 +514,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="object" />
-    <MESSAGE value="Static" />
-    <MESSAGE value=" Static and Non-static" />
-    <MESSAGE value=" Static1" />
-    <MESSAGE value="Static field" />
     <MESSAGE value="Static block" />
     <MESSAGE value="Non static" />
     <MESSAGE value="preference for blocks" />
@@ -505,7 +534,12 @@
     <MESSAGE value="Interface with variable" />
     <MESSAGE value="Using while loop" />
     <MESSAGE value="Data types" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data types" />
+    <MESSAGE value="For-loop" />
+    <MESSAGE value="Forloop.java" />
+    <MESSAGE value="Forloop1.java" />
+    <MESSAGE value="Forloop2.java" />
+    <MESSAGE value="String.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="String.txt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -13,7 +13,7 @@ public class EvenOdd{
         for(int j=0;j<ch.length;j++) {
             int num=ch[j];
             if(j%2==0)
-                System.out.print(c+",");
+                System.out.print(j+",");
         }
         System.out.print("\b\n");
         System.out.print("odd:");

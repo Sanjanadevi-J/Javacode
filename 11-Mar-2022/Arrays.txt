@@ -1,0 +1,19 @@
+Arrays:
+       It is a collection of similar data types of an element which has continuous memory allocation.
+       We can store only fixed set of elements(i.e) the size should be fixed.
+       Array out of exception happens if the array elements less than or greater than the array length.
+       Memory will be dynamically allocated for an array in heap memory,
+       Elements of array is based on index,the first element will be in 0th position and so on,.
+       Array can be initialized , declared and instantiated together.
+Advantage of array:
+       code optimization
+       random access
+Types:
+      Single dimensional array
+      Multi-dimensional array-used to create matrices
+Anonymous array:
+      Not declaring array while passing an array.
+Jagged array:
+      Multidimensional array with different number of columns.
+Copy array:
+      we can copy an array into another array by Arraycopy().

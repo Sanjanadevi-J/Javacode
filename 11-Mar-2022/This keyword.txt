@@ -1,0 +1,10 @@
+This keyword:
+            This keyword is used to refer the current object in a methods or a constructor.
+            It is used to refer the current class variable.
+            It is used to invoke current class method
+            It is used to invoke current class constructor.
+            It is used to pass the current object as an argument to a method or to a constructor.
+              - this() constructor can be reused in a class constructor.
+              - this() constructor should be called first in the constructor otherwise it will show compile time error.
+            The main use of this keyword is to eliminate the confusion between class attributes and parameter of a method or constructor with same name.
+            It is better to use standard name for the parameters so same name of attributes is used with this keyword to avoid confusion.

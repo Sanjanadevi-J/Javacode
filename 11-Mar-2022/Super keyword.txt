@@ -1,0 +1,9 @@
+Super keyword:
+             super keyword is a reference variable.
+             It is used only iin the concept of inheritance.
+             It is used to refer immediate parent class object.
+             super() must be called first in the constructor.
+Usage:
+      To refer immediate parent class instance variable.
+      To refer immediate parent class method.
+      To refer immediate parent class constructor.

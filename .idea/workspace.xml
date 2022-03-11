@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="String methods">
-      <change afterPath="$PROJECT_DIR$/11-Mar-2022/This keyword.txt" afterDir="false" />
+    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="this keyword.">
+      <change afterPath="$PROJECT_DIR$/11-Mar-2022/ThisExample1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -242,8 +242,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseNum2" />
         <item itemvalue="Application.ReverseNum" />
+        <item itemvalue="Application.ReverseNum2" />
         <item itemvalue="Application.Interface1" />
         <item itemvalue="Application.OverLoad1" />
         <item itemvalue="Application.Method4" />
@@ -525,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646919765678</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="this keyword.">
+      <created>1646975572235</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1646975572235</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,7 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Method" />
     <MESSAGE value="Predefined" />
     <MESSAGE value="static method" />
     <MESSAGE value="user defined" />
@@ -565,7 +571,8 @@
     <MESSAGE value="String1.java" />
     <MESSAGE value="Immutable string" />
     <MESSAGE value="String methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="String methods" />
+    <MESSAGE value="this keyword." />
+    <option name="LAST_COMMIT_MESSAGE" value="this keyword." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

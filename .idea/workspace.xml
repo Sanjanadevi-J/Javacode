@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="Finding odd and even">
-      <change afterPath="$PROJECT_DIR$/11-Mar-2022/Arrays.txt" afterDir="false" />
+    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="Arrays">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11-Mar-2022/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/11-Mar-2022/EvenOdd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -575,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646993042981</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Arrays">
+      <created>1647002539513</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1647002539513</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -590,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Differ by number of arguments" />
     <MESSAGE value="Differ by data type" />
     <MESSAGE value="Overriding" />
     <MESSAGE value="Override.java" />
@@ -615,7 +619,8 @@
     <MESSAGE value="Super keyword.txt" />
     <MESSAGE value="Super keyword - instance variable" />
     <MESSAGE value="Finding odd and even" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finding odd and even" />
+    <MESSAGE value="Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

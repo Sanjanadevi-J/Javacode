@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="Arrays">
+    <list default="true" id="c4e1d22d-50c0-4c9c-925a-a5ec72644975" name="Changes" comment="Minimum and maximum value of an array">
+      <change afterPath="$PROJECT_DIR$/12-Mar-2022/FindMinMax2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -580,7 +581,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647002539513</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Minimum and maximum value of an array">
+      <created>1647062108185</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1647062108185</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -595,7 +603,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Differ by data type" />
     <MESSAGE value="Overriding" />
     <MESSAGE value="Override.java" />
     <MESSAGE value="Interface" />
@@ -620,7 +627,8 @@
     <MESSAGE value="Super keyword - instance variable" />
     <MESSAGE value="Finding odd and even" />
     <MESSAGE value="Arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrays" />
+    <MESSAGE value="Minimum and maximum value of an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minimum and maximum value of an array" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

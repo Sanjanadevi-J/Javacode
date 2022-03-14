@@ -2,7 +2,7 @@ import java.util.*;
 public class FindMinMax {
     static void find(int array[]){
         int min =array[0];
-        int secondmin= array[0] ;
+        int secondmin= array[1] ;
         for(int i=0;i<array.length;i++){
             for (int j = 0; j < array.length; j++){
             if (array[i] < min ){
